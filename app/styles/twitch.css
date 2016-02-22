@@ -1,0 +1,29 @@
+body {
+    background: #919394; 
+}
+.jumbotron.row {
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.jumbotron .col-xs-2 {
+    height: 50px;
+}
+.jumbotron .col-xs-4 {
+    height: 50px;
+}
+.jumbotron .col-xs-8 {
+    height: 50px;
+}
+.container-fluid .jumbotron {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+div.col-xs-2 {
+    padding-left: 0;
+    text-align: left;
+}
+img.col-xs-2.profileImage {
+    width: auto;
+    border-radius: 50%;
+}
